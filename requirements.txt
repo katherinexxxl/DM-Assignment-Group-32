@@ -1,0 +1,8 @@
+pysqlite3
+pandas
+numpy
+duckdb
+pypi-json
+ipynb
+DateTime
+openpyxl
