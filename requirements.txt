@@ -6,3 +6,5 @@ pypi-json
 ipynb
 DateTime
 openpyxl
+pycountry
+phonenumbers
