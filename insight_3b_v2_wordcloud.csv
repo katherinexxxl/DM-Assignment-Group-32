@@ -1,0 +1,12 @@
+Keyword,Review_Count,Avg_CSAT,Theme,Version
+availab,130,4.14,Theme 1: Denied / No Availability,V2
+denied,64,4.11,Theme 1: Denied / No Availability,V2
+refused,0,,Theme 1: Denied / No Availability,V2
+status,153,5.08,Theme 2: Status & Loyalty Not Honoured,V2
+loyal,63,4.16,Theme 2: Status & Loyalty Not Honoured,V2
+member,126,4.1,Theme 2: Status & Loyalty Not Honoured,V2
+tier,63,4.05,Theme 2: Status & Loyalty Not Honoured,V2
+ignored,228,3.54,Theme 3: Unmet Expectations,V2
+nothing extra,63,4.05,Theme 3: Unmet Expectations,V2
+only got,63,4.16,Theme 3: Unmet Expectations,V2
+booked,63,4.16,Theme 3: Unmet Expectations,V2

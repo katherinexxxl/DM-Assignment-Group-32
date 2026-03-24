@@ -1,0 +1,7 @@
+Keyword,Review_Count,Avg_CSAT,Theme,Version
+available,0,,Theme 1: Denied/No Availability,V1
+denied,64,4.11,Theme 1: Denied/No Availability,V1
+refused,0,,Theme 1: Denied/No Availability,V1
+view,0,,Theme 2: Marginal/Fake Upgrade,V1
+floor,0,,Theme 2: Marginal/Fake Upgrade,V1
+same,0,,Theme 2: Marginal/Fake Upgrade,V1
