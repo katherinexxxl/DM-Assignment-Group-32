@@ -1,5 +1,5 @@
-Upgrade_Sentiment_Theme,Total_Reviews,Average_CSAT,Pct_Of_Negative_Mentions
-Theme 3: Unmet Expectations (No Explanation Given),219,3.4,42
-Theme 2: Status & Loyalty Not Honoured,171,3.95,32.8
-Theme 1: Denied / No Availability,124,4,23.8
-Theme 4: General Upgrade Complaint,7,4,1.3
+Upgrade_Complaint_Theme,Total_Reviews,Average_CSAT,Pct_Of_All_Complaints
+Theme 2: Loyalty/Benefits Not Recognized,442,4.14,60.6
+Theme 4: Miscellaneous,155,8.64,21.3
+Theme 1: No Availability,130,4.14,17.8
+Theme 3: Upgrade Unsatisfactory,2,4.0,0.3
